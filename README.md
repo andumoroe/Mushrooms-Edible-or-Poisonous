@@ -1,4 +1,4 @@
-# Portfolio 4 - Mushrooms, Edible or Poisonous? 
+# Mushrooms, Edible or Poisonous? 
 ## Context
 
 Collected from Audobon Society Field Guide: mushrooms described in terms of physical characteristics. classification: poisonous or edible. 
